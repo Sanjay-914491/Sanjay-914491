@@ -1,4 +1,4 @@
-### Hi there 👋
+### Andariki Namaskaram (Hello Everyone !) 👋
 
 <!--
 **Sanjay-914491/Sanjay-914491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Sanjay-914491's GitHub | Stats](https://stats.quine.sh/Sanjay-914491/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sanjay-914491)
