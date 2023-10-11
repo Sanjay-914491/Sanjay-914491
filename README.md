@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 [![Sanjay-914491's GitHub | Stats](https://stats.quine.sh/Sanjay-914491/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sanjay-914491)
+[![Sanjay-914491's GitHub | Languages Over Time](https://stats.quine.sh/Sanjay-914491/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sanjay-914491)
